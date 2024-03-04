@@ -1,0 +1,10 @@
+path: C:\Users\Prashankh Ajit\Desktop\AIOT PROJECT\data # dataset root dir
+train: C:\Users\Prashankh Ajit\Desktop\AIOT PROJECT\data\images\train  # train images (relative to 'path')
+val: C:\Users\Prashankh Ajit\Desktop\AIOT PROJECT\data\images\val  # val images (relative to 'path')
+
+names:
+  0: helmet
+  1: null
+  2: with helmet
+  3: without helmet
+
